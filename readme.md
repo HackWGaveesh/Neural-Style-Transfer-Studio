@@ -2,7 +2,6 @@
 
 <div align="center">
   
-
   ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-orange.svg)
   ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)

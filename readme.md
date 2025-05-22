@@ -15,10 +15,6 @@
 
 **Neural Style Transfer Studio** is a revolutionary Streamlit web application that transforms your ordinary photos into extraordinary artistic masterpieces! 🎭 Leveraging the power of deep learning and Neural Style Transfer, this app combines the content of one image with the artistic style of another, creating unique and visually stunning results that look like they were painted by famous artists.
 
-<div align="center">
-  <img src="https://via.placeholder.com/800x300/f8f9fa/6366f1?text=Content+%2B+Style+%3D+Masterpiece" alt="Neural Style Transfer Process" width="600">
-</div>
-
 ---
 
 ## ✨ Features

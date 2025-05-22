@@ -63,10 +63,10 @@ Follow these steps to set up and run the Neural Style Transfer Studio locally:
     The `requirements.txt` should contain:
     ```
     streamlit==1.45.1
-   tensorflow==2.18.0
-   tensorflow-hub==0.16.1
-   numpy==2.0.2
-   pillow==11.2.1
+    tensorflow==2.18.0
+    tensorflow-hub==0.16.1
+    numpy==2.0.2
+    pillow==11.2.1
     ```
 
 ## 📁 Directory Structure

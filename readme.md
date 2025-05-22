@@ -337,9 +337,6 @@ Questions? Suggestions? Just want to share your amazing creations?
 
 ---
 
-<p align="center">
-  <img src="https://via.placeholder.com/600x100/8b5cf6/ffffff?text=Happy+Styling!+%F0%9F%8E%A8%E2%9C%A8" alt="Happy Styling Banner">
-</p>
 
 **Created with ❤️ by HackWGaveesh**
 

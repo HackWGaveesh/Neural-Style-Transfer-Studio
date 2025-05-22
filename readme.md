@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
+
   ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.18.0-orange.svg)
   ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)

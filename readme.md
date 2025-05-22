@@ -1,7 +1,6 @@
 # 🎨✨ Neural Style Transfer Studio 🖼️🚀
 
 <div align="center">
-  <img src="https://via.placeholder.com/150x150/8b5cf6/ffffff?text=NST" alt="Neural Style Transfer Studio Logo" width="120">
   
   [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app/)
   ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
@@ -144,10 +143,16 @@ graph TD
 ├── 🚀 StyleGan_Main.py           # Main Streamlit application
 ├── 📋 requirements.txt           # Python dependencies
 ├── 🎨 Styles/                    # Predefined style images directory
-│   ├── vangogh.jpg              # Van Gogh style
-│   ├── monet.jpg                # Monet style
-│   ├── picasso.jpg              # Picasso style
-│   └── ...                      # Add more styles here
+│   ├── BW.jpg                   # Black & White style
+│   ├── Fauvism.jpg              # Fauvism artistic style
+│   ├── Ghibli.jpg               # Studio Ghibli animation style
+│   ├── Impressionism.jpg        # Impressionist painting style
+│   ├── Landscape.jpg            # Natural landscape style
+│   ├── PopArt.jpg               # Pop Art movement style
+│   ├── PsychedelicArt.jpg       # Psychedelic art style
+│   ├── Ukiyoe.jpg               # Japanese woodblock print
+│   ├── Vintage.jpg              # Vintage/retro style
+│   └── anime.jpg                # Anime/manga style
 ├── 📖 README.md                 # This file
 ├── 🙈 .gitignore               # Git ignore rules
 └── 📄 LICENSE                  # License file
@@ -192,16 +197,22 @@ graph TD
 
 ---
 
-## 🎨 Style Gallery Examples
+## 🎨 Available Style Gallery
 
 <div align="center">
 
-| Style | Preview | Description |
-|-------|---------|-------------|
-| 🌻 **Van Gogh** | ![Van Gogh](https://via.placeholder.com/100x100/FFD700/000000?text=Van+Gogh) | Swirling brushstrokes and vibrant colors |
-| 🏞️ **Monet** | ![Monet](https://via.placeholder.com/100x100/87CEEB/000000?text=Monet) | Impressionist style with soft, blended colors |
-| 🎭 **Picasso** | ![Picasso](https://via.placeholder.com/100x100/FF6347/FFFFFF?text=Picasso) | Cubist geometric forms and bold shapes |
-| 🌊 **Hokusai** | ![Hokusai](https://via.placeholder.com/100x100/4169E1/FFFFFF?text=Hokusai) | Traditional Japanese woodblock print style |
+| Style | Description | Artistic Movement |
+|-------|-------------|-------------------|
+| 🎨 **BW** | Classic black and white artistic style | Monochrome Art |
+| 🎭 **Fauvism** | Bold, non-naturalistic colors | Early 20th Century |
+| 🏛️ **Ghibli** | Studio Ghibli animation style | Japanese Animation |
+| 🌸 **Impressionism** | Soft brushstrokes and light effects | 19th Century Movement |
+| 🏞️ **Landscape** | Natural scenery artistic interpretation | Landscape Art |
+| 🎪 **Pop Art** | Bold colors and commercial imagery | 1950s Pop Culture |
+| 🌈 **Psychedelic Art** | Vibrant, surreal visual effects | 1960s Counterculture |
+| 🌊 **Ukiyoe** | Traditional Japanese woodblock prints | Edo Period Japan |
+| 📰 **Vintage** | Retro and classic artistic styling | Vintage Aesthetics |
+| 🎌 **Anime** | Japanese anime and manga style | Modern Japanese Art |
 
 </div>
 
@@ -281,7 +292,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 | ⚡ Average Processing Time | 15-30 seconds |
 | 🖼️ Supported Image Formats | JPG, PNG, WebP |
 | 📏 Max Image Resolution | 4K (4096x4096) |
-| 🎨 Available Styles | 10+ predefined |
+| 🎨 Available Styles | 10 predefined styles |
 | 💾 Output Format | High-quality PNG |
 
 </div>

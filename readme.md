@@ -37,7 +37,7 @@ Follow these steps to set up and run the Neural Style Transfer Studio locally:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/Your-Repository-Name.git](https://github.com/your-username/Your-Repository-Name.git) # Replace with your actual repository URL
+    git clone https://github.com/HackWGaveesh/Neural-Style-Transfer-Studio.git
     cd Your-Repository-Name
     ```
 
@@ -62,11 +62,11 @@ Follow these steps to set up and run the Neural Style Transfer Studio locally:
     ```
     The `requirements.txt` should contain:
     ```
-    streamlit==1.45.0
-    tensorflow==2.19.0
-    tensorflow-hub==0.16.1
-    numpy==1.26.4
-    Pillow==10.4.0
+    streamlit==1.45.1
+   tensorflow==2.18.0
+   tensorflow-hub==0.16.1
+   numpy==2.0.2
+   pillow==11.2.1
     ```
 
 ## 📁 Directory Structure
